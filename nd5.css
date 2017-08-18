@@ -11,8 +11,30 @@
 .remelis {
 	border: solid white 3px;
 	float: left;
-	padding: 20px;
-	font-size: 200%;
+	padding: 40px;
+	font-size: 300%;
 	color: white;
 	margin: 30px;
+}
+.zalia {
+	background-color: green;
+}
+.roz {
+	background-color: pink;
+}
+.gelt {
+	background-color: yellow;
+}
+.raud {
+	background-color: red;
+}
+.aqua {
+	background-color: aqua;
+}
+.juod {
+	background-color: black;
+}
+.balt {
+	background-color: white;
+	color:black;
 }
